@@ -1,0 +1,27 @@
+_repo: Vi-stackars-kvinnor-_75751
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gille, Elsa
+    gutenberg_agent_id: '58126'
+    url: http://www.gutenberg.org/2009/agents/58126
+description: ''
+gutenberg_issued: '2025-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75751'
+language: sv
+pgterms:marc904: https://catalog.hathitrust.org/Record/009246080
+pgterms:marc905: 20230111044659gille
+pgterms:marc906: '1917'
+pgterms:marc907: se
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: '  $aStockholm :$bAlbert Bonniers Förlag, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vi stackars kvinnor ...
+url: http://www.gutenberg.org/ebooks/75751
