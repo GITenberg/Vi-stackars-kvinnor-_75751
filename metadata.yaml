@@ -1,11 +1,16 @@
 _repo: Vi-stackars-kvinnor-_75751
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75751-h/images/cover.jpg
 creator:
   author:
     agent_name: Gille, Elsa
     gutenberg_agent_id: '58126'
     url: http://www.gutenberg.org/2009/agents/58126
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75751#Vi-stackars-kvinnor-
 gutenberg_issued: '2025-03-30'
 gutenberg_type: Text
 identifiers:
